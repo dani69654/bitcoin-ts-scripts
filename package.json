@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin-ts-scripts",
+  "version": "1.0.0",
+  "description": "TypeScript scripts exploring Bitcoin internals",
+  "scripts": {
+    "build": "tsc",
+    "run:script": "ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.6",
+    "ecpair": "^2.1.0",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
