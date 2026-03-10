@@ -1,3 +1,5 @@
+# This repo is fully handled by openclaw, it's used as a test 
+
 # bitcoin-ts-scripts
 
 TypeScript scripts exploring Bitcoin internals using [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib).
